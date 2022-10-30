@@ -1,16 +1,18 @@
-# github-profile-summary-cards-example
+<h2 align="center">👋 Hi, I’m Gökalp</h2>
 
-:star: [Tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Toturial) ( Recommendation ) :star:
+<p align="center">
+  <a href="https://www.linkedin.com/in/gokalpcelik/" target="_blank"><img align="center" src="linkedin.png" alt="Linkedin" width="30px" /></a>
+  &nbsp;&nbsp;<a href="https://gokalpcelik.com/" target="_blank"><img align="center" src="favicon.png" alt="Website" width="30px" /></a>
+</p>
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
+Welcome to my GitHub profile. I am a software developer. 
 
-```To create your profile README you need to name the repo as your username```
 
-| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
+<h2 align="center">📈 GitHub Stats</h2>
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p align="center">
+  <img width="688px" src="https://raw.githubusercontent.com/gokalpclk/gokalpclk/master/profile-summary-card-output/2077/0-profile-details.svg">
+  <img src="https://raw.githubusercontent.com/gokalpclk/gokalpclk/master/profile-summary-card-output/2077/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/gokalpclk/gokalpclk/master/profile-summary-card-output/2077/3-stats.svg">
+</p>
