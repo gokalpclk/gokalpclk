@@ -12,7 +12,7 @@ Welcome to my GitHub profile. I am a software developer.
 
 
 <p align="center">
-  <img width="688px" src="https://raw.githubusercontent.com/gokalpclk/gokalpclk/master/profile-summary-card-output/2077/0-profile-details.svg">
-  <img src="https://raw.githubusercontent.com/gokalpclk/gokalpclk/master/profile-summary-card-output/2077/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/gokalpclk/gokalpclk/master/profile-summary-card-output/2077/3-stats.svg">
+  <img width="688px" src="https://github.com/gokalpclk/gokalpclk/blob/master/profile-summary-card-output/2077/0-profile-details.svg">
+  <img src="https://github.com/gokalpclk/gokalpclk/blob/master/profile-summary-card-output/2077/1-repos-per-language.svg">
+  <img src="https://github.com/gokalpclk/gokalpclk/blob/master/profile-summary-card-output/2077/3-stats.svg">
 </p>
