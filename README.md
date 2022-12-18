@@ -16,7 +16,7 @@ Welcome to my GitHub profile. I am a software developer.
   <img src="https://github.com/gokalpclk/gokalpclk/blob/master/profile-summary-card-output/2077/1-repos-per-language.svg">
   <img src="https://github.com/gokalpclk/gokalpclk/blob/master/profile-summary-card-output/2077/3-stats.svg">
 </p>
-    <palign="center">
+    <p align="center">
   <a href="https://github.com/gokalpclik" target="_blank">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=gokalpclk&theme=nord&date_format=j%20M%5B%20Y%5D" />
   </a>
